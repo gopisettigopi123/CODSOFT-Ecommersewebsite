@@ -1,2 +1,2 @@
-# CODSOFT-Ecommersewebsite
-Its Ecommorse website for the people who can access their products for their needs
+# songNexusByte-MusicApplication
+Its a application with a songs to play and change current song to next 
